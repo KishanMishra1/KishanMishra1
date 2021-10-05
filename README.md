@@ -1,7 +1,11 @@
-<h1 align="center">Hi 👋, I'm Kishan Mishra</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kishanmishra1&label=Profile%20views&color=0e75b6&style=flat" alt="kishanmishra1" /> </p>
+<h1 align="center">Hello👋, I'm Kishan Mishra</h1>
+<img src="https://data.whicdn.com/images/332672234/original.gif"width="680" height="340" align="center"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kishanmishra1" alt="kishanmishra1" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kishanmishra1&label=Profile%20views&color=0e75b6&style=flat" alt="kishanmishra1" /></p>
+
+
+
+
 
 - 🔭 I’m currently working on **Demystfying Board Game Design**
 

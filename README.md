@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **AI**
 
-- 💬 Ask me about **Python,C++,C,SQL,Machine Learning,CNN,NLP**
+- 💬 Ask me about **Competitive Coding,Machine Learning ,Data Analyzing ,etc.**
 
 - 📫 How to reach me **mishrakishan2017@gmail.com**
 

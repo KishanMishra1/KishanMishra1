@@ -11,11 +11,9 @@
 
 - 🌱 I’m currently learning **AI**
 
-- 💬 Ask me about **Python,C++,ML,SQL,NLP,Tkinter**
+- 💬 Ask me about **Python,C++,C,SQL,Machine Learning,CNN,NLP**
 
 - 📫 How to reach me **mishrakishan2017@gmail.com**
-
-- ⚡ **import life.happiness()**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

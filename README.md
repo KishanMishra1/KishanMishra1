@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on **Demystfying Board Game Design**
+- 🔭 I’m currently working on **Cloud Computing**
 
 - 🌱 I’m currently learning **AI**
 

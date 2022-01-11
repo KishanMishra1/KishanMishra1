@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on **Cloud Computing**
+- 🔭 I’m currently working on **Competitive Coding**
 
 - 🌱 I’m currently learning **AI**
 

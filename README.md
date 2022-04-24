@@ -3,24 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishanmishra1&label=Profile%20views&color=0e75b6&style=flat" alt="kishanmishra1" /></p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kishan-mishra-894ba920b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kishan-mishra-894ba920b" height="30" width="40" /></a>
-<a href="https://instagram.com/the_kishanm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="who_kishanm" height="30" width="40" /></a>
-</p>
-## 🦸‍ Little more about me:
+<h3>More about me:</h3>
 
 ```python
-from spacetime import SpaceTime
-
-
-class ashutoshAcharya(SpaceTime):
+class Kishan_Mishra : 
 
     def __init__(self):
-        self.name = 'ashutoshacharya'
+        self.name = 'Kishan Mishra'
 
     def code(self):
-        return ['Python'] 
+        return ['Python','C++'] 
         
     def frameWork(self):
         return ['Django'] 
@@ -32,18 +24,24 @@ class ashutoshAcharya(SpaceTime):
         return ['Heroku'] 
 
     def askMeAbout(self):
-        return ['Backedn DEV', 'Graphene'] 
+        return ['Python', 'Machine Learning','Django','Data Science','Competitive coding'] 
 
     def database(self):
         return ['SQLite3', 'SQL','PostgreSQL']
 
     def architecture(self):
         return ['MVT']
-
+        
     def funFact(self):
         return ['There are two ways to write error-free programs; only the third one works']  
-```
+  ```
+        
+        
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/kishan-mishra-894ba920b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kishan-mishra-894ba920b" height="30" width="40" /></a>
+<a href="https://instagram.com/the_kishanm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="who_kishanm" height="30" width="40" /></a>
+</p>
 
-<!-- <img src="https://c.tenor.com/DgPjM9EO_PwAAAAC/synthwave-sunset.gif" width="950" height="300" align="center"/> -->
 
 

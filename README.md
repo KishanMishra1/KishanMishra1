@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishanmishra1&label=Profile%20views&color=0e75b6&style=flat" alt="kishanmishra1" /></p>
 
-<h3>More about me:</h3>
 
 ```python
 class Kishan_Mishra : 

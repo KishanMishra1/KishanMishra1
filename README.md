@@ -12,7 +12,7 @@ class Kishan_Mishra :
         self.name = 'Kishan Mishra'
 
     def code(self):
-        return ['Python','C++'] 
+        return ['Python','C++','C#'] 
         
     def frameWork(self):
         return ['Django'] 

@@ -11,23 +11,17 @@ class Kishan_Mishra :
     def __init__(self):
         self.name = 'Kishan Mishra'
 
-    def code(self):
-        return ['C','Python','JavaScript','C#'] 
+    def programming_language(self):
+        return ['C','Python','JavaScript','C++'] 
         
-    def frameWork(self):
-        return ['Django'] 
+    def frameWorks(self):
+        return ['Django','Flask','Tensorflow','pytorch'] 
     
     def vcs(self):
-        return ['GitHub', 'GitLab']
-        
-    def hosting(self):
-        return ['Heroku'] 
-
-    def askMeAbout(self):
-        return ['Python', 'Machine Learning','Django','Data Science','Competitive coding'] 
+        return ['GitHub', 'Bitbucket']
 
     def database(self):
-        return ['SQLite3', 'mySQL','PostgreSQL']
+        return ['mongoDB','mySQL','postgreSQL']
         
     def funFact(self):
         return ['There are two ways to write error-free programs; only the third one works']  

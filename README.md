@@ -6,10 +6,9 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Explore with me ...  
 
         
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kishan-mishra-894ba920b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kishan-mishra-894ba920b" height="30" width="40" /></a>
-<!-- <a href="https://instagram.com/_vayn3_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="who_kishanm" height="30" width="40" /></a> -->
+
+<!-- <a href="https://linkedin.com/in/kishan-mishra-894ba920b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kishan-mishra-894ba920b" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/_vayn3_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="who_kishanm" height="30" width="40" /></a> --> -->
 </p>
 
 
